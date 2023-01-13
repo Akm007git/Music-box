@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 4.5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 1.4rem;
+}
+
+.a {
+background-image: url(images/a_image.png);
+}
+
+.b {
+background-image: url(images/b_image.jpg);
+}
+
+.c {
+background-image: url(images/c_image.png);
+}
+
+.d {
+background-image: url(images/d_image.png);
+}
+
+.l {
+background-image: url(images/l_image.png);
+}
+
+.f {
+background-image: url(images/f_image.png);
+}
+
+.g {
+background-image: url(images/g_image.png);
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  /* font-family: 'Arvo', cursive; */
+  font-family: 'Covered By Your Grace', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DF2E2E;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color:#8A47C;
+}
