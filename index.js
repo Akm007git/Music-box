@@ -57,7 +57,7 @@ function makeSound(key)
   break;
 
   case "c":
-    var c = new Audio('sounds/Challa.mp3');
+    var c = new Audio('D:\WebDevelopment\drumKit\drumKit\index.html');
     c.play();
  break;
 
